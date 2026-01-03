@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda environments
+churn-env/
+yasasp1/
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
